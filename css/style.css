@@ -1,0 +1,7 @@
+.about-contnet{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+section{
+    background-color: rgb(229 233 140 / 40%) !important;
+}
