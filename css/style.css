@@ -5,3 +5,9 @@
 section{
     background-color: rgb(229 233 140 / 40%) !important;
 }
+@media screen and (max-width:500px) {
+    .about-contnet{
+grid-template-columns: initial;
+        
+    }
+}
